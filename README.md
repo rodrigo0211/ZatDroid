@@ -25,13 +25,9 @@ Here it is the flowchart of the App:
 
 ![image](https://github.com/user-attachments/assets/6699344e-782b-45a1-b3a8-33c6406c49eb)
 
-And the documentation:
-
-
-
-
-
-
-
 ![image](https://github.com/user-attachments/assets/3a151da6-0802-4dc4-88ab-b3d8785e7368)
+
+Documentation:
+
+
 
