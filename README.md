@@ -1,6 +1,6 @@
 # ZatDroid
 Satellite Tracking and Augmented Reality. App for Android
-<img src="[https://github.com/user-attachments/assets/4347eb3d-aeeb-4aeb-9a2c-8b5805d05dac](https://github.com/user-attachments/assets/cbfcf1b0-6daa-476e-9dcb-a8855b93c8da)" alt="image description" width="100" />
+<img src="[https://github.com/user-attachments/assets/4347eb3d-aeeb-4aeb-9a2c-8b5805d05dac](https://github.com/user-attachments/assets/cbfcf1b0-6daa-476e-9dcb-a8855b93c8dac)" alt="image description" width="100" />
 
 
 
