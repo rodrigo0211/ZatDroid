@@ -22,8 +22,7 @@ ZATDROID:
 The GUI (Graphical User Interface) manages to lead the users through an easy and friendly navigation to achieve their aims quickly, showing the results of the user picks with BreadCrumbs, supporting English and Spanish, showing icon-based menus and keeping the users informed.
 
 Here it is the flowchart of the App:
-
-![image](https://github.com/user-attachments/assets/6699344e-782b-45a1-b3a8-33c6406c49eb)
+<img src="https://github.com/user-attachments/assets/6699344e-782b-45a1-b3a8-33c6406c49eb" alt="image description" width="400" />
 
 ![image](https://github.com/user-attachments/assets/3a151da6-0802-4dc4-88ab-b3d8785e7368)
 
