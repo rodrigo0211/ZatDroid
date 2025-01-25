@@ -1,6 +1,7 @@
 # ZatDroid
 Satellite Tracking and Augmented Reality. App for Android
-![image](https://github.com/user-attachments/assets/4347eb3d-aeeb-4aeb-9a2c-8b5805d05dac)
+<img src="https://github.com/user-attachments/assets/4347eb3d-aeeb-4aeb-9a2c-8b5805d05dac" alt="image description" width="200" />
+
 
 The purpose of ZATDROID is to offer the user the possibility of tracking any artificial satellite. It locates it in Google Maps together with its predicted trajectory and also it allows the user to see it in real time in the sky with augmented reality camera view. The application is implemented in Java for ANDROID devices (tablets or smartphones). 
 
