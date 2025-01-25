@@ -28,7 +28,8 @@ Here it is the flowchart of the App:
 ![image](https://github.com/user-attachments/assets/3a151da6-0802-4dc4-88ab-b3d8785e7368)
 
 Documentation:
-
+- Final Project Report https://github.com/rodrigo0211/ZatDroid/blob/main/Documentation/Final_Year_Project_Report.pdf
+- 
 
 
 
